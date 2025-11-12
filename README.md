@@ -1,4 +1,4 @@
-# 🧾 PREFIX-LIST-COMPARATOR
+# PREFIX-LIST-COMPARATOR
 
 Network Automation using Python
 
