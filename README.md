@@ -83,15 +83,9 @@ ip prefix-list MY_LIST seq 20 deny 10.0.0.0/8
 ip prefix-list MY_LIST seq 30 permit 172.16.0.0/16 le 24
  ```
 
-🛠 Development & Contributing 💡
-
-Feel free to fork, improve, and contribute! All pull requests are welcome.
-
 📧 Contact & Support
 
-Feel free to reach out to the project owner, Adarsh Naraniyil, for questions, feedback, or collaborations.
-
-Email: adarshnaraniyil@gmail.com
+Feel free to reach out to the project owner Adarsh Naraniyil for questions, feedback, or collaborations.
 
 LinkedIn:https://www.linkedin.com/in/adarshnaraniyil
 
